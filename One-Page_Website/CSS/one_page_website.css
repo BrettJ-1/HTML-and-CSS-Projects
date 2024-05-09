@@ -1,0 +1,14 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+}
+
+input[type=text]{
+    width: 50%;
+    margin: 45px;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: grey;
+    color:white;
+    padding: .5%;
+}
