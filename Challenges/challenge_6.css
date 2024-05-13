@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+    color: green;
+    height: 200px;
+    width: 300px;
+  }
