@@ -6,7 +6,7 @@ body {
     background-color: lightblue;
   }
 
-img{
+#img{
     border-style: dashed;
     color: red;
 }
