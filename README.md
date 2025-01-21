@@ -14,7 +14,7 @@ Showcases an example travel page with photos of Oregon. It's styled using CSS an
 
 Movie Theater Website:
 
-Showcases an example home page for a movie theater, using Bootstrap 4 to style the page. The Boostrap componenets contains a navbar, jumbotron, form, card, and dropdown menu. 
+Showcases an example home page for a movie theater, using Bootstrap 4 to style the page. The Bootstrap components contain a navbar, jumbotron, form, card, and dropdown menu. 
 
 Portfolio Website:
 
